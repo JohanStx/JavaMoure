@@ -1,4 +1,3 @@
-package JavaMoure;
 public class DataTypes {
     public static void main(String[] args) {
         // Tipos de datos primitivos

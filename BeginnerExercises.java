@@ -1,4 +1,3 @@
-package JavaMoure;
 public class BeginnerExercises {
     public static void main(String[] args) {
         //1. declara una variable tipo String y asignale tu nombre

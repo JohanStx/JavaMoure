@@ -1,4 +1,3 @@
-package JavaMoure;
 public class HelloWordExercises {
     public static void main(String[] args) {
         System.out.println("Johan");//imprime el nombre
