@@ -66,15 +66,34 @@ public class OperatorsExercises {
         //7. Combina ambos operadoes logicos
 
         System.out.println(false || false && true);
+        System.out.println();
 
         //8. Añade alguna negacion
 
-        System.out.println(s  );
+        System.out.println(!true);
 
         //9. imprime 3 ejemplos de uso de operadoes unarios
 
+        a = 4;
+        b = 5;
+        int c ;
+
+        c = b++ - a ;
+        System.out.println(c); //Imprime 1 por que 5-4 = 1 y "b" pasa a valer 6
+
+        c = b++ - 3 + a-- ; 
+        System.out.println(c); //imprime 7, "a" vale 3 y "b" vale  7
+
+        c = --a - b;
+        System.out.println(c); //impreme -5, "a" paso a valer 2 antes de operar
+
         //10. Combina operadoes arimeticos, de comparacion y logicos
 
+        a = 6;
+        b = 13;
+        c = a + 3;
 
+        System.out.println(a != 6 && c < b || a > c);
+    
     }
 }
