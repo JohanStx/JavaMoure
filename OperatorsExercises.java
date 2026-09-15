@@ -63,7 +63,7 @@ public class OperatorsExercises {
 
         //7. Combina ambos operadoes logicos
 
-        System.out.println(false || false && true);
+        System.out.println(false || true && false);
         System.out.println();
 
         //8. Añade alguna negacion
