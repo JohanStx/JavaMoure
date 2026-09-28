@@ -51,7 +51,7 @@ public class Strings {
         System.out.println();
 
         //Trim
-       
+        
         System.out.println(" Hola, me llamo Johan ".trim());// elimina espacios en blanco al principio y al final
         System.out.println(" Hola, me llamo Johan ");
 

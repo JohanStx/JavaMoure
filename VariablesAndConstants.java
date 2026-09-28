@@ -1,6 +1,6 @@
 public class VariablesAndConstants {
     public static void main(String[] args) {
-       
+        
         //variables
 
         String name = "Johan";
@@ -22,7 +22,7 @@ public class VariablesAndConstants {
 
         //Constantes
 
-       final String EMAIL = "szuluagapipicano@gmail.com";
+        final String EMAIL = "szuluagapipicano@gmail.com";
        // EMAIL = "szuluaga@gmail.com"; no se puede modificar una constante
         System.out.println(EMAIL);
 
