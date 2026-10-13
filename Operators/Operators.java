@@ -55,7 +55,7 @@ public class Operators {
         System.out.println( true && false );
         System.out.println( false && true );
         System.out.println( false && false );
-       
+        
         System.out.println(3 > 2 && 5 == 2);
         System.out.println();
 
